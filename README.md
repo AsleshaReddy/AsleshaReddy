@@ -92,13 +92,6 @@
 
 ---
 
-### ✍️ Technical Blogs
-- [Optimizing Data Pipelines for Business Analytics](#)  
-- [Power BI vs Tableau: Which One Should You Use?](#)  
-- [5 Key Metrics Every Analyst Should Know](#)  
-
----
-
 ### 🔗 Let’s Connect
 📧 Email: byreddyaslesha@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/aslesha-reddy-b-2k1124)  
