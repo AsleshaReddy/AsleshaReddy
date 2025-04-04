@@ -70,12 +70,23 @@
 
 ---
 
-### 📂 Notable Projects
-🚗 **Car Price Optimization** - ML-based pricing prediction using R & SQL  
-📈 **Apple Strategic IT Solutions** - AI/AR-driven growth model for Apple  
-🏬 **Retail Analytics for Marks & Spencer** - Demand & inventory modeling  
-📊 **Customer Churn Prediction** - Power BI & Tableau dashboards  
-🧠 **Real-Time ML Pipeline** - Spark Streaming + Event Hubs
+## 🧠 Notable Projects
+
+🚗 **[Real-Time Vehicle Data Pipeline](https://github.com/AsleshaReddy/RealTime_Vehicle_Data_Pipeline)**  
+Built a real-time Spark Streaming + Kafka pipeline simulating vehicle telemetry for analytics and alerts.  
+**Tools:** Python, Spark, Kafka, Power BI
+
+🛒 **Market Basket Analysis** *(Apriori, ECLAT, FP-Growth)*  
+Analyzed customer transaction patterns using association rule mining to optimize product placements.  
+**Tools:** Python, Pandas, mlxtend, fpgrowth_py, Gephi
+
+🍎 **Apple Strategic IT Solutions** *(Cloud + AI/AR IT Strategy)*  
+Proposed AI/AR-based digital transformation strategies to improve Apple's global scalability and engagement.  
+**Tech Used:** Cloud platforms, AI/ML, Business Strategy, PowerPoint
+
+📺 **Aha Data Warehouse & BI System**  
+Designed star schema and integrated multi-source data into a BI system using a DW Bus Matrix.  
+**Tools:** SQL, ETL Integration, Star Schema, Business Intelligence
 
 ---
 
