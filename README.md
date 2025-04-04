@@ -64,9 +64,12 @@
 
 ---
 
-### 🗂️ Data Modeling & Warehousing
-`Star Schema` • `Snowflake Schema` • `Data Lakes` • `Dimensional Modeling`
+📦 **Data Modeling & Warehousing**
 
+![Star Schema](https://img.shields.io/badge/Star%20Schema-4B0082?style=for-the-badge&logo=data&logoColor=white)
+![Snowflake Schema](https://img.shields.io/badge/Snowflake%20Schema-00BFFF?style=for-the-badge&logo=snowflake&logoColor=white)
+![Data Lakes](https://img.shields.io/badge/Data%20Lakes-228B22?style=for-the-badge&logo=lake&logoColor=white)
+![Dimensional Modeling](https://img.shields.io/badge/Dimensional%20Modeling-8B0000?style=for-the-badge&logo=database&logoColor=white)
 
 ---
 
