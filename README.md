@@ -1,16 +1,22 @@
 <h1 align="center">Hi there, I'm Aslesha Reddy Byreddy 👋</h1>
 
-🔧 Data Engineer | Cloud-Native Developer | Data Pipeline Specialist  
-🚀 Passionate about transforming raw data into meaningful insights  
+## 👩‍💻 About Me
 
----
+✍️ I'm Aslesha Reddy Byreddy — a passionate **Data Engineer** with a love for building robust, cloud-native data solutions that transform raw information into impactful insights.
 
-### 👩‍💻 About Me
-🎓 Master’s in Information Systems @ Stevens Institute of Technology  
-🏢 Data Engineer at Wells Fargo (Previously Subaru of America, Accenture)  
-☁️ Skilled across AWS, Azure, GCP | Apache Spark, PySpark, SQL  
-📊 ETL Expert | BI Integrator | Cloud-native Architect  
-📈 Optimized Power BI dashboards by 35% | Reduced data latency by 60%  
+🎓 I hold a Master’s degree in Information Systems from **Stevens Institute of Technology**, where I specialized in data engineering, cloud architecture, and big data platforms.
+
+💼 I currently work as a **Data Engineer at Wells Fargo**, with past experience at **Subaru of America** and **Accenture**. My work revolves around real-time streaming pipelines, ETL workflows, and scalable analytics infrastructure.
+
+🚀 I’ve worked hands-on with technologies like:
+- **AWS, Azure, GCP** – Cloud & Data Lake Solutions  
+- **Apache Spark, Kafka, PySpark** – Real-time & batch data pipelines  
+- **SQL, Airflow, SSIS, NiFi** – Data orchestration & ETL design  
+- **Power BI, Tableau** – BI dashboards with data storytelling  
+
+📊 I've improved Power BI performance by 35% and helped reduce data latency by 60% in enterprise systems.
+
+✨ I'm passionate about bridging data engineering and analytics — building systems that make data meaningful, fast, and accessible.
 
 ---
 
