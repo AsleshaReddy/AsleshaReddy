@@ -75,21 +75,22 @@
 
 ## 🧠 Notable Projects
 
-🚗 **[Real-Time Vehicle Data Pipeline](https://github.com/AsleshaReddy/RealTime_Vehicle_Data_Pipeline)**  
+🚗 [Real-Time Vehicle Data Pipeline](https://github.com/AsleshaReddy/RealTime_Vehicle_Data_Pipeline)  
 Built a real-time Spark Streaming + Kafka pipeline simulating vehicle telemetry for analytics and alerts.  
 **Tools:** Python, Spark, Kafka, Power BI
 
-🛒 **Market Basket Analysis** *(Apriori, ECLAT, FP-Growth)*  
+🛒 [Market Basket Analysis](https://github.com/AsleshaReddy/Market_Basket_Analysis) *(Apriori, ECLAT, FP-Growth)*  
 Analyzed customer transaction patterns using association rule mining to optimize product placements.  
 **Tools:** Python, Pandas, mlxtend, fpgrowth_py, Gephi
 
-🍎 **Apple Strategic IT Solutions** *(Cloud + AI/AR IT Strategy)*  
+🍎 Apple Strategic IT Solutions *(Cloud + AI/AR IT Strategy)*  
 Proposed AI/AR-based digital transformation strategies to improve Apple's global scalability and engagement.  
 **Tech Used:** Cloud platforms, AI/ML, Business Strategy, PowerPoint
 
-📺 **Aha Data Warehouse & BI System**  
+🖥️ Aha Data Warehouse & BI System  
 Designed star schema and integrated multi-source data into a BI system using a DW Bus Matrix.  
 **Tools:** SQL, ETL Integration, Star Schema, Business Intelligence
+
 
 ---
 
