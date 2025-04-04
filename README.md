@@ -14,15 +14,59 @@
 
 ---
 
-### 🛠 Technical Skills
+## 🚀 Technical Skills
 
-- **Languages**: Python, SQL, Java  
-- **Databases**: PostgreSQL, MySQL, MongoDB, Oracle, SQL Server  
-- **Cloud & Big Data**: AWS (Redshift, S3, EMR), Azure, GCP (BigQuery, Dataflow)  
-- **ETL Tools**: Airflow, SSIS, NiFi, Kafka, Alteryx  
-- **BI Tools**: Power BI, Tableau  
-- **DevOps**: Docker, Jenkins, GitHub Actions, Terraform  
-- **Data Modeling**: Star & Snowflake schemas | Data Lakes | Warehousing  
+### 🧠 Programming & Data Science
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+
+---
+
+### 🔍 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+---
+
+### ☁️ Cloud & Big Data Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
+
+---
+
+### ⚙️ ETL & Data Pipelines
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?logo=microsoftsqlserver&logoColor=white)
+![NiFi](https://img.shields.io/badge/Apache_NiFi-4A90E2?logo=apache&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-005BAA?logo=alteryx&logoColor=white)
+
+---
+
+### 📊 Business Intelligence Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+
+---
+
+### 🐳 DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+
+---
+
+### 🗂️ Data Modeling & Warehousing
+`Star Schema` • `Snowflake Schema` • `Data Lakes` • `Dimensional Modeling`
+
 
 ---
 
