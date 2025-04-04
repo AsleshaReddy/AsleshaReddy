@@ -79,11 +79,16 @@
 
 ---
 
-### 🏅 Certifications
-- IBM Data Science Professional Certificate  
-- Google Data Analytics Certification  
-- Machine Learning with Python – Coursera  
-- Salesforce Admin Fundamentals  
+
+## 🏅 Certifications & Licenses
+
+- 🧠 [**Data Analysis with Python**](https://courses.skillsbuild.skillsnetwork.site/certificates/ebc9904299de4b1285d78e4871b0994b)  
+  *IBM SkillsBuild · Issued Apr 2025*  
+  **Credential ID**: `ebc9904299de4b1285d78e4871b0994b`
+
+- 🧪 [**Python for Data Science**](https://www.credly.com/badges/d1423053-f3d3-498d-880e-0ff4ca2617c6/linked_in_profile)  
+  *IBM · Issued Apr 2025*
+
 
 ---
 
